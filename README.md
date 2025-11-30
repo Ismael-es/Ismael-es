@@ -13,15 +13,7 @@ Hola, Soy Ismael!
 
  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
-👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
-
-### 💡 What I Do  
-- 💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
-- 🔍 **Passionate about:** Web Development, API Integration  
-
-### 🚀 Looking For  
-- 💼 Exciting **development opportunities & tech collaborations**  
-- 📖 Learning **new technologies** and staying updated with industry trends  
+👋 Hola, soy estudiante de programación con ganas de aprender constantemente, estoy cursando el ultimo año de la carrera. He desarrollado aplicaciones web con diferentes lenguajes y tecnologias. Actualmente me intereso por el Back-End en Lenguajes como PHP, interesando en ampliar mis conociminetos en JAVA y todo el mundo de Sprint.
 
 <br><br>
 
